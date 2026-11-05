@@ -57,8 +57,6 @@ The project is divided into two parts:
 
 ## GitHub Repository
 
-Repository link: **[Insert your GitHub repository URL here]**
+https://github.com/usman-rasheed-uet/Sales_Project.git
 
----
 
-This project was completed as part of the AI Engineering Bootcamp.
